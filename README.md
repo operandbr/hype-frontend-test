@@ -109,8 +109,6 @@ A aplicação deve ser dockerizada:
   - como executar backend e frontend
 - Documentação: breve descrição das decisões técnicas mais importantes (ex.: modelagem do Firestore, organização do Nest, como o FFmpeg é executado, como garantiu segurança por usuário).
 
-O projeto deve ser adicionado no GitHub e o link compartilhado neste formulário → https://forms.gle/nQQKHX9fAG2g99Vd8
-
 O candidato deve estar apto, na data de entrevista técnica, para apresentar o projeto, suas características e funcionamento.
 
 ---
